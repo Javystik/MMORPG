@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Броня антанти",
+    "type": "ARMOR",
+    "itemTier": "MYTHIC",
+    "description": "Міфічна броня антанти наділяє людину безсмертю",
+    "healthBonus": 1000000,
+    "manaBonus": 1000000,
+    "strengthBonus": 10000000
+  }
+]
